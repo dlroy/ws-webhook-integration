@@ -1,0 +1,12 @@
+# @base_url = https://<ngrok address>
+@base_url = http://localhost:8888
+
+###
+POST {{base_url}}/api/did 
+Content-Type: application/json
+
+{
+    "webhookUrl": "<WEBHOOK_URL>", 
+    "replyToSend": "Hi there",
+    "delayInMs": 3000
+}

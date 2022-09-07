@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="601.0417px" preserveAspectRatio="none" style="width:1411px;height:601px;background:#00000000;" version="1.1" viewBox="0 0 1411 601" width="1411.4583px" zoomAndPan="magnify"><defs><filter height="300%" id="f1f9hjuw9r6pcr" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0833333333333335"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.166666666666667" dy="4.166666666666667" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter><linearGradient id="g1f9hjuw9r6pcr0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#4DABF5"/><stop offset="100%" stop-color="#2196F3"/></linearGradient></defs><g><rect fill="#FFFFFF" filter="url(#f1f9hjuw9r6pcr)" height="450.7487" style="stroke:#CCCCCC;stroke-width:1.0416666666666667;" width="10.4167" x="88.5417" y="74.9674"/><rect fill="#FFFFFF" filter="url(#f1f9hjuw9r6pcr)" height="409.1146" style="stroke:#CCCCCC;stroke-width:1.0416666666666667;" width="10.4167" x="343.2292" y="116.6016"/><rect fill="#FFFFFF" filter="url(#f1f9hjuw9r6pcr)" height="99.9349" style="stroke:#CCCCCC;stroke-width:1.0416666666666667;" width="10.4167" x="665.625" y="216.5365"/><rect fill="#FFFFFF" filter="url(#f1f9hjuw9r6pcr)" height="49.9674" style="stroke:#CCCCCC;stroke-width:1.0416666666666667;" width="10.4167" x="665.625" y="416.4063"/><rect fill="#FFFFFF" filter="url(#f1f9hjuw9r6pcr)" height="49.9674" style="stroke:#CCCCCC;stroke-width:1.0416666666666667;" width="10.4167" x="981.7708" y="366.4388"/><rect fill="#FFFFFF" filter="url(#f1f9hjuw9r6pcr)" height="99.9349" style="stroke:#CCCCCC;stroke-width:1.0416666666666667;" width="10.4167" x="1292.7083" y="266.5039"/><line style="stroke:#CCCCCC;stroke-width:1.0416666666666667;stroke-dasharray:5.0,5.0;" x1="93.75" x2="93.75" y1="64.5508" y2="535.0911"/><line style="stroke:#CCCCCC;stroke-width:1.0416666666666667;stroke-dasharray:5.0,5.0;" x1="347.9167" x2="347.9167" y1="64.5508" y2="535.0911"/><line style="stroke:#CCCCCC;stroke-width:1.0416666666666667;stroke-dasharray:5.0,5.0;" x1="670.8333" x2="670.8333" y1="64.5508" y2="535.0911"/><line style="stroke:#CCCCCC;stroke-width:1.0416666666666667;stroke-dasharray:5.0,5.0;" x1="986.4583" x2="986.4583" y1="64.5508" y2="535.0911"/><line style="stroke:#CCCCCC;stroke-width:1.0416666666666667;stroke-dasharray:5.0,5.0;" x1="1297.9167" x2="1297.9167" y1="64.5508" y2="535.0911"/><rect fill="url(#g1f9hjuw9r6pcr0)" filter="url(#f1f9hjuw9r6pcr)" height="49.9674" rx="4.1667" ry="4.1667" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="69.7917" x="57.2917" y="10.4167"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="34.375" x="75" y="39.7278">Client</text><rect fill="url(#g1f9hjuw9r6pcr0)" filter="url(#f1f9hjuw9r6pcr)" height="49.9674" rx="4.1667" ry="4.1667" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="69.7917" x="57.2917" y="534.0495"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="34.375" x="75" y="563.3606">Client</text><rect fill="url(#g1f9hjuw9r6pcr0)" filter="url(#f1f9hjuw9r6pcr)" height="49.9674" rx="4.1667" ry="4.1667" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="245.8333" x="223.9583" y="10.4167"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="210.4167" x="241.6667" y="39.7278">WebSocket Server (API Gateway)</text><rect fill="url(#g1f9hjuw9r6pcr0)" filter="url(#f1f9hjuw9r6pcr)" height="49.9674" rx="4.1667" ry="4.1667" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="245.8333" x="223.9583" y="534.0495"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="210.4167" x="241.6667" y="563.3606">WebSocket Server (API Gateway)</text><rect fill="url(#g1f9hjuw9r6pcr0)" filter="url(#f1f9hjuw9r6pcr)" height="49.9674" rx="4.1667" ry="4.1667" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="205.2083" x="566.6667" y="10.4167"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="169.7917" x="584.375" y="39.7278">Backend Service (Lambda)</text><rect fill="url(#g1f9hjuw9r6pcr0)" filter="url(#f1f9hjuw9r6pcr)" height="49.9674" rx="4.1667" ry="4.1667" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="205.2083" x="566.6667" y="534.0495"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="169.7917" x="584.375" y="563.3606">Backend Service (Lambda)</text><rect fill="url(#g1f9hjuw9r6pcr0)" filter="url(#f1f9hjuw9r6pcr)" height="49.9674" rx="4.1667" ry="4.1667" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="233.3333" x="868.75" y="10.4167"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="197.9167" x="886.4583" y="39.7278">Webhook Server (API Gateway)</text><rect fill="url(#g1f9hjuw9r6pcr0)" filter="url(#f1f9hjuw9r6pcr)" height="49.9674" rx="4.1667" ry="4.1667" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="233.3333" x="868.75" y="534.0495"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="197.9167" x="886.4583" y="563.3606">Webhook Server (API Gateway)</text><rect fill="url(#g1f9hjuw9r6pcr0)" filter="url(#f1f9hjuw9r6pcr)" height="49.9674" rx="4.1667" ry="4.1667" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="194.7917" x="1198.9583" y="10.4167"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="159.375" x="1216.6667" y="39.7278">3rd Party Service (ngrok)</text><rect fill="url(#g1f9hjuw9r6pcr0)" filter="url(#f1f9hjuw9r6pcr)" height="49.9674" rx="4.1667" ry="4.1667" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="194.7917" x="1198.9583" y="534.0495"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="159.375" x="1216.6667" y="563.3606">3rd Party Service (ngrok)</text><rect fill="#FFFFFF" filter="url(#f1f9hjuw9r6pcr)" height="450.7487" style="stroke:#CCCCCC;stroke-width:1.0416666666666667;" width="10.4167" x="88.5417" y="74.9674"/><rect fill="#FFFFFF" filter="url(#f1f9hjuw9r6pcr)" height="409.1146" style="stroke:#CCCCCC;stroke-width:1.0416666666666667;" width="10.4167" x="343.2292" y="116.6016"/><rect fill="#FFFFFF" filter="url(#f1f9hjuw9r6pcr)" height="99.9349" style="stroke:#CCCCCC;stroke-width:1.0416666666666667;" width="10.4167" x="665.625" y="216.5365"/><rect fill="#FFFFFF" filter="url(#f1f9hjuw9r6pcr)" height="49.9674" style="stroke:#CCCCCC;stroke-width:1.0416666666666667;" width="10.4167" x="665.625" y="416.4063"/><rect fill="#FFFFFF" filter="url(#f1f9hjuw9r6pcr)" height="49.9674" style="stroke:#CCCCCC;stroke-width:1.0416666666666667;" width="10.4167" x="981.7708" y="366.4388"/><rect fill="#FFFFFF" filter="url(#f1f9hjuw9r6pcr)" height="99.9349" style="stroke:#CCCCCC;stroke-width:1.0416666666666667;" width="10.4167" x="1292.7083" y="266.5039"/><polygon fill="#2196F3" points="330.7292,112.4349,341.1458,116.6016,330.7292,120.7682,334.8958,116.6016" style="stroke:#2196F3;stroke-width:1.0416666666666667;"/><line style="stroke:#2196F3;stroke-width:3.125;" x1="98.9583" x2="336.9792" y1="116.6016" y2="116.6016"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="50" x="116.6667" y="101.1536">connect</text><polygon fill="#2196F3" points="330.7292,162.4023,341.1458,166.569,330.7292,170.7357,334.8958,166.569" style="stroke:#2196F3;stroke-width:1.0416666666666667;"/><line style="stroke:#2196F3;stroke-width:3.125;" x1="98.9583" x2="336.9792" y1="166.569" y2="166.569"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="88.5417" x="116.6667" y="151.121">sendMessage</text><polygon fill="#2196F3" points="653.125,212.3698,663.5417,216.5365,653.125,220.7031,657.2917,216.5365" style="stroke:#2196F3;stroke-width:1.0416666666666667;"/><line style="stroke:#2196F3;stroke-width:3.125;" x1="353.6458" x2="659.375" y1="216.5365" y2="216.5365"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="58.3333" x="371.3542" y="201.0885">message</text><polygon fill="#2196F3" points="1280.2083,262.3372,1290.625,266.5039,1280.2083,270.6706,1284.375,266.5039" style="stroke:#2196F3;stroke-width:1.0416666666666667;"/><line style="stroke:#2196F3;stroke-width:3.125;" x1="676.0417" x2="1286.4583" y1="266.5039" y2="266.5039"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="109.375" x="693.75" y="251.0559">/api/... (message)</text><polygon fill="#2196F3" points="365.1042,312.3047,354.6875,316.4714,365.1042,320.638,360.9375,316.4714" style="stroke:#2196F3;stroke-width:1.0416666666666667;"/><line style="stroke:#2196F3;stroke-width:3.125;" x1="358.8542" x2="669.7917" y1="316.4714" y2="316.4714"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="150" x="381.7708" y="301.0234">ack (postToConnection)</text><polygon fill="#2196F3" points="1003.6458,362.2721,993.2292,366.4388,1003.6458,370.6055,999.4792,366.4388" style="stroke:#2196F3;stroke-width:1.0416666666666667;"/><line style="stroke:#2196F3;stroke-width:3.125;" x1="997.3958" x2="1296.875" y1="366.4388" y2="366.4388"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="200" x="1020.3125" y="350.9908">/webhook (response message)</text><polygon fill="#2196F3" points="687.5,412.2396,677.0833,416.4063,687.5,420.5729,683.3333,416.4063" style="stroke:#2196F3;stroke-width:1.0416666666666667;"/><line style="stroke:#2196F3;stroke-width:3.125;" x1="681.25" x2="985.9375" y1="416.4063" y2="416.4063"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="60.4167" x="704.1667" y="400.9583">response</text><polygon fill="#2196F3" points="365.1042,462.207,354.6875,466.3737,365.1042,470.5404,360.9375,466.3737" style="stroke:#2196F3;stroke-width:1.0416666666666667;"/><line style="stroke:#2196F3;stroke-width:3.125;" x1="358.8542" x2="669.7917" y1="466.3737" y2="466.3737"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="188.5417" x="381.7708" y="450.9257">response (postToConnection)</text><polygon fill="#2196F3" points="110.4167,512.1745,100,516.3411,110.4167,520.5078,106.25,516.3411" style="stroke:#2196F3;stroke-width:1.0416666666666667;"/><line style="stroke:#2196F3;stroke-width:3.125;" x1="104.1667" x2="342.1875" y1="516.3411" y2="516.3411"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="155.2083" x="127.0833" y="500.8931">response (connectionId)</text><!--MD5=[a18043aec0e9e34523c85c5b01374d4d]
+@startuml
+!theme materia
+
+participant Client as C
+participant "WebSocket Server (API Gateway)" as WSS
+participant "Backend Service (Lambda)" as BE
+participant "Webhook Server (API Gateway)" as WHS
+participant "3rd Party Service (ngrok)" as 3P
+
+
+activate C
+C -> WSS : connect
+activate WSS
+
+C -> WSS : sendMessage
+WSS -> BE : message
+activate BE
+
+BE -> 3P : /api/... (message)
+activate 3P
+
+BE -> WSS : ack (postToConnection)
+deactivate BE
+
+3P -> WHS : /webhook (response message)
+deactivate 3P
+activate WHS
+
+WHS -> BE: response
+deactivate WHS
+activate BE
+
+
+BE -> WSS: response (postToConnection)
+deactivate BE
+
+WSS -> C: response (connectionId)
+@enduml
+
+@startuml
+
+
+
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+
+
+
+
+
+
+<style>
+  root {
+    BackgroundColor transparent
+    FontColor #FFF
+    HyperLinkColor #fd7e14
+    LineColor #1a78c2
+    LineThickness 1
+    Margin 10
+    Padding 6
+    Shadowing 0.0
+  }
+  node {
+   Padding 15
+   roundcorner 20
+   BackgroundColor #2196F3-#1a78c2
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  groupHeader {
+    BackgroundColor #fff
+    FontColor #9C27B0
+    FontStyle bold
+  }
+  header {
+    LineThickness 0
+  }
+  referenceHeader {
+    BackgroundColor transparent
+    FontColor #222
+    FontStyle bold
+  }
+  separator {
+    BackgroundColor #222
+    FontColor transparent
+    FontStyle bold
+  }
+  title {
+	FontSize 20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor  #fff-#fff
+	FontColor #2196F3
+	BorderColor #fff
+  }
+  nwdiagDiagram {
+	network {
+			FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3    
+		LineColor #2196F3
+		LineThickness 1.0
+		FontColor #1a78c2
+	}
+	server {
+			FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	}
+	arrow {
+		FontColor #1a78c2
+		LineColor #1a78c2
+	}
+	group {
+		BackGroundColor #fff
+		LineColor $LIGHT_DARK
+		LineThickness 2.0
+		Margin 5
+		Padding 5
+	}
+  }
+  ganttDiagram {
+	task {
+			FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+		LineColor #2196F3
+		Margin 10
+		Padding 6
+	}
+	note {
+		FontColor #FFF
+		LineColor #7D1F8D
+		BackGroundColor #9C27B0
+	}
+	separator {
+		LineColor #fff
+		BackGroundColor #fff-#cccccc
+		FontColor #222
+	}
+	milestone {
+		FontColor #9C27B0
+		FontSize 16
+		FontStyle italic
+		BackGroundColor #fff
+		LineColor #cccccc
+	}
+	timeline {
+		BackgroundColor #fff
+		FontColor #222
+	}
+	closed {
+		BackgroundColor #CC7A00
+		FontColor #FFF
+	}
+  }
+</style>
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             true
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               10
+skinparam ArrowColor            #666
+skinparam stereotype {
+    CBackgroundColor #fff
+    CBorderColor #cccccc
+    ABackgroundColor #70bf73
+    ABorderColor #3D8C40
+    IBackgroundColor #B7161C
+    IBorderColor #b7161c
+    EBackgroundColor #ffad33
+    EBorderColor #CC7A00
+    NBackgroundColor #b052c0
+    NBorderColor #7D1F8D
+}
+skinparam title {
+	FontColor	                 #2196F3
+	BorderColor	                 #cccccc
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              #fff-#fff
+}
+
+skinparam legend {
+	BackgroundColor #fff
+	BorderColor #cccccc
+	FontColor #222
+}
+
+skinparam swimlane {
+	BorderColor #9C27B0
+	BorderThickness 2
+	TitleBackgroundColor  #fff-#fff
+	TitleFontColor #2196F3
+}
+
+
+skinparam activity {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	BarColor #4CAF50
+	StartColor #9C27B0
+	EndColor #9C27B0
+	DiamondBackgroundColor #FFF-#fff
+  	DiamondBorderColor #cccccc
+	DiamondFontColor #222
+}
+
+
+skinparam participant {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	ParticipantBorderThickness 2
+}
+
+
+skinparam actor {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	FontColor #222
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #2196F3
+	FontColor #222
+}
+
+
+skinparam sequence {
+	BorderColor #2196F3
+	TitleFontColor #2196F3
+	BackgroundColor transparent
+	StartColor #2196F3
+	EndColor #2196F3
+	BoxBackgroundColor #fff
+	BoxBorderColor #666
+	BoxFontColor #222
+	DelayFontColor #222
+	LifeLineBorderColor #cccccc
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor #fff
+	GroupBorderColor #666
+	GroupFontColor #222
+	GroupHeaderFontColor #9C27B0
+	DividerBackgroundColor #FFF-#fff
+    DividerBorderColor #666
+    DividerBorderThickness 2
+    DividerFontColor #222
+	ReferenceBackgroundColor transparent
+	ReferenceBorderColor #666
+	ReferenceFontColor #222
+	ReferenceHeaderFontColor #9C27B0
+	StereotypeFontColor #FFF
+}
+
+
+skinparam partition {
+	BorderColor #2196F3
+	FontColor #2196F3
+	BackgroundColor transparent
+}
+
+
+skinparam collections {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+}
+
+
+skinparam control {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	FontColor #222
+}
+
+
+skinparam entity {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	FontColor #222
+}
+
+
+skinparam boundary {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	FontColor #222
+}
+
+
+skinparam agent {
+	BackgroundColor #orange
+	BorderColor #999999
+	FontColor #333333
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #b052c0-#9C27B0
+	BorderColor #9C27B0
+	FontColor #FFF
+}
+
+
+skinparam artifact {
+	BackgroundColor #FFF-#fff
+	BorderColor #666
+	FontColor #666
+}
+
+
+skinparam component {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+}
+
+
+skinparam interface {
+	BackgroundColor  #B7161C
+	BorderColor  #e51c23
+	FontColor #222
+}
+
+
+skinparam storage {
+	BackgroundColor #ffad33-#ff9800
+  	BorderColor #ff9800
+	FontColor #FFF
+}
+
+
+skinparam node {
+	BackgroundColor #fff-#fff
+	BorderColor #222
+	FontColor #222
+}
+
+
+skinparam cloud {
+	BackgroundColor #F2FCFE-#eeeeee
+	BorderColor #F2FCFE
+	FontColor #222
+}
+
+
+skinparam database {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	FontColor #222
+}
+
+
+skinparam class {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	HeaderBackgroundColor #2196F3-#1a78c2
+	StereotypeFontColor #222
+	BorderThickness 1
+	AttributeFontColor #fff
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	StereotypeFontColor #222
+	BorderThickness 1
+	AttributeFontColor #222
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	BorderThickness 2
+	StereotypeFontColor #2196F3
+}
+
+
+skinparam rectangle {
+	FontColor #2196F3
+	BackgroundColor #fff-#fff
+	BorderThickness 2
+	StereotypeFontColor #2196F3
+}
+
+
+skinparam package {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	BackgroundColor #fff-#fff
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor #FFF-#fff
+  	BorderColor #ff9800
+	FontColor #ff9800
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor #FFF-#fff
+  	BorderColor #9C27B0
+	FontColor #9C27B0
+	BorderThickness 2
+}
+
+
+skinparam state {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	BorderColor #1a78c2
+	StartColor #9C27B0
+	EndColor #9C27B0
+	AttributeFontColor #222
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+}
+
+
+skinparam card {
+	BackgroundColor #b052c0-#9C27B0
+	BorderColor #9C27B0
+	FontColor #FFF
+}
+
+
+skinparam file {
+	BackgroundColor #fff-#fff
+	BorderColor #666
+	FontColor #666
+
+}
+
+
+skinparam stack {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+}
+
+participant Client as C
+participant "WebSocket Server (API Gateway)" as WSS
+participant "Backend Service (Lambda)" as BE
+participant "Webhook Server (API Gateway)" as WHS
+participant "3rd Party Service (ngrok)" as 3P
+
+
+activate C
+C -> WSS : connect
+activate WSS
+
+C -> WSS : sendMessage
+WSS -> BE : message
+activate BE
+
+BE -> 3P : /api/... (message)
+activate 3P
+
+BE -> WSS : ack (postToConnection)
+deactivate BE
+
+3P -> WHS : /webhook (response message)
+deactivate 3P
+activate WHS
+
+WHS -> BE: response
+deactivate WHS
+activate BE
+
+
+BE -> WSS: response (postToConnection)
+deactivate BE
+
+WSS -> C: response (connectionId)
+@enduml
+
+PlantUML version 1.2022.8beta2(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

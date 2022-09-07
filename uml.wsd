@@ -1,0 +1,38 @@
+@startuml
+!theme materia
+
+participant Client as C
+participant "WebSocket Server (API Gateway)" as WSS
+participant "Backend Service (Lambda)" as BE
+participant "Webhook Server (API Gateway)" as WHS
+participant "3rd Party Service (ngrok)" as 3P
+
+
+activate C
+C -> WSS : connect
+activate WSS
+
+C -> WSS : sendMessage
+WSS -> BE : message
+activate BE
+
+BE -> 3P : POST /api/... (message)
+activate 3P
+
+BE -> WSS : ack (postToConnection)
+deactivate BE
+
+3P -> WHS : POST /webhook (response message)
+deactivate 3P
+activate WHS
+
+WHS -> BE: response
+deactivate WHS
+activate BE
+
+
+BE -> WSS: response (postToConnection)
+deactivate BE
+
+WSS -> C: response (connectionId)
+@enduml
